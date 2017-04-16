@@ -20,7 +20,9 @@ Is this ok? (yes) yes
 ```
 ## Install node module
 
+```
 npm install express@4 --save
+```
 
 ## How to run a server
 
